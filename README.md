@@ -1,4 +1,4 @@
-# Skoltech chatbot 
+# Multiagent chatbot 
 
 Agentic RAG bot, which I made because I was bored. To run:
 
