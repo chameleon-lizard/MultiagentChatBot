@@ -4,7 +4,7 @@ openai==1.42.0
 pymilvus==2.4.5
 sentence-transformers==3.0.1
 langchain==0.2.13
-langchain-core==0.2.30
+langchain-core==0.2.43
 langdetect==1.0.9
 langsmith==0.1.75
 langchain-community==0.2.12
